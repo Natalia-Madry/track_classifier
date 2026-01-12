@@ -22,7 +22,7 @@ pip install torch torch-geometric numpy pandas matplotlib
 ## How to Run:
 ### Run training and evaluation:
 
-python train.py
+python3 train.py
 
 
 ## Output
